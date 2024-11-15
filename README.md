@@ -10,6 +10,6 @@ Let's Connect!
 
 LinkedIn: https://www.linkedin.com/in/shivangi-maurya-598695273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-GitHub: github.com/Shivangi-maurya09
+GitHub: https://github.com/Shivangi-maurya09
 
 I’m always excited to learn more, collaborate, and share knowledge with the tech community. Feel free to explore my projects and reach out for collaboration or just to say hi!
